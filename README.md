@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on programing
 - 
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Eamil: abdulaziz.smg111@gmail.com
 
 <!---
 Abdulaziz-Algailani/Abdulaziz-Algailani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
